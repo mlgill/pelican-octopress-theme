@@ -1,0 +1,81 @@
+#272822              #fafafa                                # $pygm-    Background Color 
+#49483e              #e6e3c3                                # $pygm-    Highlight Color  
+                           
+#f8f8f2              #272822                                # $pygm-    Text
+                                                            # $pygm-w   Whitespace
+#960050 bg#1e0010    #960050 bg:#1e0010                     # $pygm-err Error
+                                                            # $pygm-x   Other
+                           
+#75715e              #75715e                                # $pygm-c   Comment                   
+#75715e              #75715e                                # $pygm-cm  Comment.Multiline         
+#75715e              #75715e                                # $pygm-cp  Comment.Preproc           
+#75715e              #75715e                                # $pygm-c1  Comment.Single            
+#75715e              #75715e                                # $pygm-cs  Comment.Special           
+                           
+#66d9ef              #00a8c8                                # $pygm-k   Keyword                   
+#66d9ef              #00a8c8                                # $pygm-kc  Keyword.Constant          
+#66d9ef              #00a8c8                                # $pygm-kd  Keyword.Declaration       
+#f92672              #f92672                                # $pygm-kn  Keyword.Namespace         
+#66d9ef              #00a8c8                                # $pygm-kp  Keyword.Pseudo            
+#66d9ef              #00a8c8                                # $pygm-kr  Keyword.Reserved          
+#66d9ef              #00a8c8                                # $pygm-kt  Keyword.Type              
+                           
+#f92672              #f92672                                # $pygm-o   Operator                  
+#f92672              #f92672                                # $pygm-ow  Operator.Word             
+                           
+#f8f8f2              #111111                                # $pygm-p   Punctuation               
+                           
+#f8f8f2              #111111                                # $pygm-n   Name                      
+#a6e22e              #75af00                                # $pygm-na  Name.Attribute            
+#f8f8f2              #111111                                # $pygm-nb  Name.Builtin              
+#f8f8f2              #111111                                # $pygm-bp  Name.Builtin.Pseudo       
+#a6e22e              #75af00                                # $pygm-nc  Name.Class                
+#66d9ef              #00a8c8                                # $pygm-no  Name.Constant             
+#a6e22e              #75af00                                # $pygm-nd  Name.Decorator            
+#f8f8f2              #111111                                # $pygm-ni  Name.Entity               
+#a6e22e              #75af00                                # $pygm-ne  Name.Exception            
+#a6e22e              #75af00                                # $pygm-nf  Name.Function             
+#f8f8f2              #111111                                # $pygm-py  Name.Property             
+#f8f8f2              #111111                                # $pygm-nl  Name.Label                
+#f8f8f2              #111111                                # $pygm-nn  Name.Namespace            
+#a6e22e              #75af00                                # $pygm-nx  Name.Other                
+#f92672              #f92672                                # $pygm-nt  Name.Tag                  
+#f8f8f2              #111111                                # $pygm-nv  Name.Variable             
+#f8f8f2              #111111                                # $pygm-vc  Name.Variable.Class       
+#f8f8f2              #111111                                # $pygm-vg  Name.Variable.Global      
+#f8f8f2              #111111                                # $pygm-vi  Name.Variable.Instance    
+                           
+#ae81ff              #ae81ff                                # $pygm-m   Number                    
+#ae81ff              #ae81ff                                # $pygm-mf  Number.Float              
+#ae81ff              #ae81ff                                # $pygm-mh  Number.Hex                
+#ae81ff              #ae81ff                                # $pygm-mi  Number.Integer            
+#ae81ff              #ae81ff                                # $pygm-il  Number.Integer.Long       
+#ae81ff              #ae81ff                                # $pygm-mo  Number.Oct                
+                           
+#ae81ff              #ae81ff                                # $pygm-l   Literal                   
+#e6db74              #d88200                                # $pygm-ld  Literal.Date              
+                           
+#e6db74              #d88200                                # $pygm-s   String                    
+#e6db74              #d88200                                # $pygm-sb  String.Backtick           
+#e6db74              #d88200                                # $pygm-sc  String.Char               
+#e6db74              #d88200                                # $pygm-sd  String.Doc                
+#e6db74              #d88200                                # $pygm-s2  String.Double             
+#ae81ff              #8045FF                                # $pygm-se  String.Escape             
+#e6db74              #d88200                                # $pygm-sh  String.Heredoc            
+#e6db74              #d88200                                # $pygm-si  String.Interpol           
+#e6db74              #d88200                                # $pygm-sx  String.Other              
+#e6db74              #d88200                                # $pygm-sr  String.Regex              
+#e6db74              #d88200                                # $pygm-s1  String.Single             
+#e6db74              #d88200                                # $pygm-ss  String.Symbol             
+                           
+                                                            # $pygm-g   Generic                   
+                                                            # $pygm-gd  Generic.Deleted           
+italic               italic                                 # $pygm-ge  Generic.Emph              
+                                                            # $pygm-gr  Generic.Error             
+                                                            # $pygm-gh  Generic.Heading           
+                                                            # $pygm-gi  Generic.Inserted          
+                                                            # $pygm-go  Generic.Output            
+                                                            # $pygm-gp  Generic.Prompt            
+bold                 bold                                   # $pygm-gs  Generic.Strong            
+                                                            # $pygm-gu  Generic.Subheading        
+                                                            # $pygm-gt  Generic.Traceback         

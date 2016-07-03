@@ -1,0 +1,17 @@
+
+{% if SUBSCRIBE %}
+    <section>
+        <h1>Subscribe</h2>
+        <ul>
+        	{% if FEED_ATOM %}
+        	<li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/rss+xml" rel="alternate">Atom</a></li>
+        	{% endif %}
+        	{% if FEED_RSS %}
+        	<li><a href="{{ FEED_DOMAIN_LINK }}/{{ FEED_RSS_LINK }}" type="application/rss+xml" rel="alternate">RSS</a></li>
+        	{% endif %}
+        	{% if FEED_EMAIL %}
+            <li><a href="{{ FEED_EMAIL }}" type="application/rss+xml" rel="alternate">Email</a></li>
+            {% endif %}
+        </ul>
+    </section>
+{% endif %}

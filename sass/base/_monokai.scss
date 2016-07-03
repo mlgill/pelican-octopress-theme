@@ -1,0 +1,95 @@
+//$pygm-bg: #272822 !default;
+//$pygm-hl: #49483e !default;
+//$pygm-t : #f8f8f2 !default;
+$pygm-err: #960050 !default;
+//bg#1e0010
+$pygm-c : #75715e !default;
+//$pygm-k : #66d9ef !default;
+$pygm-kn: #f92672 !default;
+$pygm-o : #f92672 !default;
+//$pygm-p : #f8f8f2 !default;
+//$pygm-n : #f8f8f2 !default;
+//$pygm-na: #a6e22e !default;
+//$pygm-nc: #a6e22e !default;
+//$pygm-no: #66d9ef !default;
+//$pygm-nd: #a6e22e !default;
+//$pygm-ne: #a6e22e !default;
+//$pygm-nf: #a6e22e !default;
+//$pygm-nx: #a6e22e !default;
+$pygm-nt: #f92672 !default;
+$pygm-m : #ae81ff !default;
+$pygm-l : #ae81ff !default;
+//$pygm-ld: #e6db74 !default;
+//$pygm-s : #e6db74 !default;
+//$pygm-se: #ae81ff !default;
+$pygm-add: #859900 !default;
+$pygm-del: #dc322f !default;
+
+//@if $pygments == light {
+  $pygm-bg: #fafafa !default;
+  $pygm-hl: #e6e3c3 !default;
+  $pygm-t : #272822 !default;
+  $pygm-k : #00a8c8 !default;
+  $pygm-p : #111111 !default;
+  $pygm-n : #111111 !default;
+  $pygm-na: #75af00 !default;
+  $pygm-nc: #75af00 !default;
+  $pygm-no: #00a8c8 !default;
+  $pygm-nd: #75af00 !default;
+  $pygm-ne: #75af00 !default;
+  $pygm-nf: #75af00 !default;
+  $pygm-nx: #75af00 !default;
+  $pygm-ld: #d88200 !default;
+  $pygm-s : #d88200 !default;
+  $pygm-se: #8045FF !default;
+//}
+
+$pygm-cm: $pygm-c !default;
+$pygm-cp: $pygm-c !default;
+$pygm-c1: $pygm-c !default;
+$pygm-cs: $pygm-c !default;
+
+$pygm-kc: $pygm-k !default;
+$pygm-kd: $pygm-k !default;
+$pygm-kp: $pygm-k !default;
+$pygm-kr: $pygm-k !default;
+$pygm-kt: $pygm-k !default;
+
+$pygm-ow: $pygm-o !default;
+
+$pygm-nb: $pygm-n !default;
+$pygm-bp: $pygm-n !default;
+
+$pygm-ni: $pygm-n !default;
+$pygm-py: $pygm-n !default;
+$pygm-nl: $pygm-n !default;
+$pygm-nn: $pygm-n !default;
+$pygm-nv: $pygm-n !default;
+$pygm-vc: $pygm-n !default;
+$pygm-vg: $pygm-n !default;
+$pygm-vi: $pygm-n !default;
+
+$pygm-mf: $pygm-m !default;
+$pygm-mh: $pygm-m !default;
+$pygm-mi: $pygm-m !default;
+$pygm-il: $pygm-m !default;
+$pygm-mo: $pygm-m !default;
+
+$pygm-sb: $pygm-s !default;
+$pygm-sc: $pygm-s !default;
+$pygm-sd: $pygm-s !default;
+$pygm-s2: $pygm-s !default;
+$pygm-sh: $pygm-s !default;
+$pygm-si: $pygm-s !default;
+$pygm-sx: $pygm-s !default;
+$pygm-sr: $pygm-s !default;
+$pygm-s1: $pygm-s !default;
+$pygm-ss: $pygm-s !default;
+
+
+/* non highlighted code colors */
+$pre-bg: $pygm-bg !default;
+$pre-border: darken($pygm-bg, 5) !default;
+$pre-color: $pygm-t !default;
+
+
