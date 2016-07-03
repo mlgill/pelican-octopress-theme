@@ -1,6 +1,10 @@
 Octopress Theme for Pelican
 ===========================
 
+This repo contains the theme files used for my blog at [themodernscientist](http://themodernscientist.com). They have been modified considerably from the [original theme](https://github.com/duilio/pelican-octopress-theme).
+
+--------------------
+
 This is a theme for `Pelican`_ that looks like `Octopress`_ default theme. I wrote this
 theme for `my personal blog`_.
 
